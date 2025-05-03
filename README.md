@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jack!
 
 🎓 **CS @ NYU** 
-📍 I'm based in **NYC** and I enjoy learning and networking | Interested in **AI, product, and systems**
+📍 I'm based in **NYC** and I enjoy meeting new people and learning about tech | Interested in **AI, product, and systems**
 
 ---
 
