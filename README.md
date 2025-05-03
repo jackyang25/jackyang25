@@ -5,13 +5,13 @@
 
 ---
 
-### I'm Currently:
+### I'm currently:
 - Working on an **agentic AI project** at startup (Pulp)
 - Exploring **AI agents**, **language models**, and **autonomous workflows**
 
 ---
 
-### Some Skills & Tools
+### Some tools I use:
 <p>
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
