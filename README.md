@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Jack!
 
-<!--
-**jackyang25/jackyang25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS @ NYU** 
+📍 Based in **NYC** | Interested in **AI, product, and systems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ... agentic AI project at Pulp
-- 🌱 I’m currently learning ... agentic AI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... my email: jy3784@nyu.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... born and raised in NYC!
--->
+### Currently:
+- Working on an **agentic AI project** at [Pulp](https://www.pulp.so)
+- Exploring **AI agents**, **language models**, and **autonomous workflows**
+
+---
+
+### Some Skills & Tools
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" />
+<img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" />
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" />
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+<img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow" />
+<img src="https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy" />
+<img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" />
+<img src="https://img.shields.io/badge/-Pinecone-05122A?style=flat&logo=pinecone" />
+<img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn" />
+
+
+---
+
+### 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackyang25)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:jy3784@nyu.edu)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://your-portfolio-link.com)
