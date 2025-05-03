@@ -6,7 +6,7 @@
 ---
 
 ### Currently:
-- Working on an **agentic AI project** at [Pulp](https://www.pulp.so)
+- Working on an **agentic AI project** at startup (Pulp)
 - Exploring **AI agents**, **language models**, and **autonomous workflows**
 
 ---
@@ -43,4 +43,4 @@
 ### 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackyang25)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:jy3784@nyu.edu)
-[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://your-portfolio-link.com)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)](https://jackyang.fun)
