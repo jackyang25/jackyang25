@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Jack!
 
 🎓 **CS @ NYU** 
-📍 Based in **NYC** | Interested in **AI, product, and systems**
+📍 I'm based in **NYC** and I enjoy travelling, meeting people, and learning | Interested in **AI, product, and systems**
 
 ---
 
-### Currently:
+### I'm Currently:
 - Working on an **agentic AI project** at startup (Pulp)
 - Exploring **AI agents**, **language models**, and **autonomous workflows**
 
