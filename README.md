@@ -6,7 +6,7 @@
 ---
 
 ### I'm currently:
-- Working on an **agentic AI project** at startup (Pulp)
+- Working at startup (Pulp)
 - Exploring **AI agents**, **language models**, and **autonomous workflows**
 
 ---
