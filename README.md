@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jack!
 
-**CS @ NYU** | Software Engineer
+CS @ NYU | Software Engineer
 
 ---
 
