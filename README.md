@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Jack!
 
-🎓 **CS @ NYU** 
-| Interested in **AI, product, and systems**
+🙇‍♂️ **CS @ NYU**
 
 ---
 
