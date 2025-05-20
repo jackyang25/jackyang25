@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jack!
 
 🎓 **CS @ NYU** 
-📍 **From NYC** | Interested in **AI, product, and systems**
+| Interested in **AI, product, and systems**
 
 ---
 
