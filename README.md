@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jack!
+## 👋 Hi, I'm Jack.
 
 CS @ NYU | Software Engineer
 
