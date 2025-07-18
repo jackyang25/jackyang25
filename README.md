@@ -5,7 +5,6 @@ CS @ NYU | Software Engineer
 ---
 
 ### I'm currently:
-- Working at startup (Pulp)
 - Exploring **AI agents**, **language models**, and **autonomous workflows**
 
 ---
