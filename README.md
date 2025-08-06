@@ -1,6 +1,6 @@
 ## 
 
-NYU CS Alumnus | Software Engineer
+NYU CS Alumnus
 
 ---
 
