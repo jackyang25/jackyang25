@@ -1,11 +1,6 @@
 ## 
 
-NYU CS Alumnus
-
----
-
-### I'm currently:
-- Exploring **AI agents**, **language models**, and **autonomous workflows**
+NYU CS Alumnus - Exploring **AI agents**, **language models**, and **autonomous workflows**
 
 ---
 
