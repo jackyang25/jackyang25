@@ -1,6 +1,6 @@
 ## 
 
-NYU CS Alumnus - Exploring **AI agents**, **language models**, and **autonomous workflows**
+NYU CS Alumnus
 
 ---
 
