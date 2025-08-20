@@ -4,7 +4,7 @@ NYU CS :: Engineer
 
 ---
 
-### Tech Stack
+### Stack
 <p>
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
