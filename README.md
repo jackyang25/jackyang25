@@ -1,6 +1,6 @@
 ## 
 
-NYU CS Alumnus :: Engineer
+NYU CS :: Engineer
 
 ---
 
