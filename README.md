@@ -1,6 +1,6 @@
 ## 
 
-NYU CS :: Engineer
+NYU CS :: SWE
 
 ---
 
