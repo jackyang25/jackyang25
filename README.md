@@ -1,6 +1,6 @@
 ## 
 
-NYU Computer Science '25, Gates AI Fellow '26
+NYU Computer Science '25
 
 ### 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackyang25)
